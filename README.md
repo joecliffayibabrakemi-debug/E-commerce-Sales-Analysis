@@ -1,5 +1,6 @@
 # E-commerce-Sales-Analysis
 **Exploratory Data Analysis of E-Commerce Sales &amp; Brand Equity (Excel Project)**
+[E-commerce Project-Wilson.xlsx](https://github.com/user-attachments/files/26466314/E-commerce.Project-Wilson.xlsx)
 
 **Executive Summary**
 
@@ -10,6 +11,9 @@ Due to the lack of a ready-made dataset, data was independently researched, coll
 The analysis reveals a strong imbalance in customer engagement, with Amazon contributing approximately **92.68%** of total reviews, despite not being a local platform. Interestingly, Amazon and Temu (international platforms with longer delivery times) still command higher customer trust compared to Jumia and Konga (local platforms).
 
 This suggests that trust, brand perception, and perceived product quality outweigh delivery speed in influencing customer engagement.
+
+<img width="1320" height="613" alt="Screenshot 2026-04-03 092010" src="https://github.com/user-attachments/assets/4b5785ab-fbb8-40d5-9142-5c72d47c0902" />
+
 
 **Business Impact:**
 
@@ -136,3 +140,5 @@ To expand this project further:
 - Platform Strategy Analysis
 
 - Rebuild using Power BI or SQL for scalability and real-time insights
+
+
