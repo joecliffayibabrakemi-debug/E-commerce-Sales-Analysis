@@ -99,7 +99,7 @@ However, key challenges include:
 - Customers trust international platforms more, despite longer delivery timelines
 
 - Discounts alone do not guarantee engagement — trust and brand perception are stronger drivers
-- 
+
 
 **Business Recommendations**
 
