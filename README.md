@@ -1,6 +1,7 @@
 # E-commerce-Sales-Analysis
-Exploratory Data Analysis of E-Commerce Sales &amp; Brand Equity (Excel Project)
-Executive Summary
+# Exploratory Data Analysis of E-Commerce Sales &amp; Brand Equity (Excel Project)
+
+# Executive Summary
 
 This project analyzes e-commerce sales data and brand performance across major platforms (Amazon, Jumia, Konga, and Temu) using Microsoft Excel. The goal was to evaluate how pricing strategies, discount levels, and customer engagement (ratings and reviews) influence platform and brand performance.
 
