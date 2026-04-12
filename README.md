@@ -1,6 +1,7 @@
 # E-commerce-Sales-Analysis
 **Exploratory Data Analysis of E-Commerce Sales &amp; Brand Equity (Excel Project)**
-[E-commerce Project-Wilson.xlsx](https://github.com/user-attachments/files/26466314/E-commerce.Project-Wilson.xlsx)
+[E-commerce.Project-Joecliff Wilson.xlsx](https://github.com/user-attachments/files/26659235/E-commerce.Project-Joecliff.Wilson.xlsx)
+
 
 **Executive Summary**
 
@@ -12,7 +13,8 @@ The analysis reveals a strong imbalance in customer engagement, with Amazon cont
 
 This suggests that trust, brand perception, and perceived product quality outweigh delivery speed in influencing customer engagement.
 
-<img width="1320" height="613" alt="Screenshot 2026-04-03 092010" src="https://github.com/user-attachments/assets/4b5785ab-fbb8-40d5-9142-5c72d47c0902" />
+<img width="1331" height="610" alt="Screenshot 2026-04-12 143139" src="https://github.com/user-attachments/assets/5a3e0944-d7bd-4c6f-bc07-c03cbbda533c" />
+
 
 
 **Business Impact:**
